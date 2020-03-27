@@ -1,5 +1,4 @@
 ﻿# Genetic Algorithm for MATLAB
-![DOI: 10.5281/zenodo.3724173](https://zenodo.org/badge/doi/10.5281/zenodo.3724173.svg)
 
 This is a MATLAB based object oriented and parallel capable implementation of a genetic algorithm to search for discrete solutions composed of a fixed number of elements drawn from a finite number of elements without replacement per solution. Information about the search's progress can be recorded and displayed subsequently for detailed analysis.
 
